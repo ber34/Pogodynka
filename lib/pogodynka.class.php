@@ -22,7 +22,7 @@ class POGODYNKA{
 	/* http://dev.pogodynka.net/dev/doc */
 	
 	/* Klucz API */
-	protected $api_key = 'CmqtJqCHZuTSB4fc5bVj'; /* API Adam */
+	protected $api_key = ' Api key '; /* API Adam */
 
 	/* TYPY xml, json, php */ 
 	private $type = 'json';
